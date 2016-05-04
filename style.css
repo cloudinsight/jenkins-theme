@@ -2,7 +2,12 @@
     background: #EA7401 url(http://7xsa3z.com1.z0.glb.clouddn.com/cilogo.svg) no-repeat 10px 0;
 }
 
-#jenkins-home-link img{
+#jenkins-home-link {
+    width: 40px;
+    display: inline-block;
+}
+
+#jenkins-home-link img {
     display: none;
 }
 
