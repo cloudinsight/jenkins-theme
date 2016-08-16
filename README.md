@@ -24,3 +24,8 @@ http://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 ```
 http://7xsa3z.com1.z0.glb.clouddn.com/style.css
 ```
+
+如果需要可以加入 GA 统计的代码
+```
+http://7xsa3z.com1.z0.glb.clouddn.com/jenkins-ga.js
+```
