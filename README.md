@@ -22,11 +22,11 @@ http://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 ![配置界面](./plugin_settings.png)
 
 ```
-http://7xsa3z.com1.z0.glb.clouddn.com/style.css
+http://d.oneapm.com/static/jenkins-theme/2/style.css
 ```
 
 如果需要可以加入 GA 统计的代码
 
 ```
-http://7xsa3z.com1.z0.glb.clouddn.com/jenkins-ga-79575996.js
+https://c.oneapm.com/gtm.js
 ```
