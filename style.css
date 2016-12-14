@@ -1,5 +1,21 @@
 #header {
-    background: #EA7401 url(http://7xsa3z.com1.z0.glb.clouddn.com/cilogo.svg) no-repeat 10px 0;
+    background: url(pattern-red.png) repeat;
+    height: 4em;
+}
+
+#header .logo {
+    height: 4em;
+    width: 15em;
+    background: url(christmas-jenkins.png) no-repeat;
+    background-size: contain;
+}
+
+#header .login a b {
+    color: dimgray;
+}
+
+.try-blueocean.header-callout {
+    display: none;
 }
 
 #jenkins-home-link {
@@ -13,4 +29,20 @@
 
 body {
     font-family: 微软雅黑, 宋体, sans-serif;
+    background: url("pattern.png") repeat;
+}
+
+.top-sticker-inner {
+    color: gold;
+    background: darkred;
+    border-bottom: 1px solid white;
+    box-shadow: gold 0 2px 2px;
+}
+
+#breadcrumbs li.item a.breadcrumbBarAnchor {
+    color: gold;
+}
+
+#right-top-nav .smallfont a{
+    color: white;
 }
