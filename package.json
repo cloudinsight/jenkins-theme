@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-theme",
+  "version": "0.0.0",
+  "description": "Cloudinsight 使用的简单的 Jenkins 自定义主题",
+  "main": "index.js",
+  "scripts": {
+    "build": "lessc --no-ie-compat ./src/main.less ./dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudinsight/jenkins-theme.git"
+  },
+  "keywords": [],
+  "author": "wyvernnot <wyvernnot@gmail.com> (http://wyvernnot.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudinsight/jenkins-theme/issues"
+  },
+  "homepage": "https://github.com/cloudinsight/jenkins-theme#readme",
+  "devDependencies": {
+    "less": "^2.7.1"
+  }
+}

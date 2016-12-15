@@ -2,7 +2,7 @@
 
 > Cloudinsight 使用的简单的 Jenkins 自定义主题
 
-![截图](./screenshot.png)
+![截图](./docs/screenshot.png)
 
 ## 修改内容
 
@@ -19,7 +19,7 @@ http://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
 
 - 设置自定义的 CSS 地址
 
-![配置界面](./plugin_settings.png)
+![配置界面](./docs/plugin_settings.png)
 
 ```
 http://d.oneapm.com/static/jenkins-theme/2/style.css
